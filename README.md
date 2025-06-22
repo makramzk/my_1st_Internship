@@ -29,7 +29,7 @@ We identified two key datasets from the Berlin city government's official portal
 - **Update Frequency:** Unknown (likely updated periodically)
 - **Data Type:** Static (available as downloadable GIS files)
 
-#### 🥅 Playgrounds (Spielplätze)
+### 🥅 Playgrounds (Spielplätze)
 - **Source:** [Berlin Open Data - Playgrounds Layer](https://fbinter.stadt-berlin.de/fb/index.jsp?loginkey=alphaDataStart&alphaDataId=s_spielplatzbestand@senstadt)
 - **Origin:** Berlin Senate Department for Urban Development
 - **Update Frequency:** Unknown
@@ -38,6 +38,10 @@ We identified two key datasets from the Berlin city government's official portal
 ---
 
 ### 1.2 Modelling & Planning
+
+### 🟢 Public Parks (Grünanlagen)
+- **Key Parameters Selected**
+
 - **Key Parameters Selected:**
   - `Name`
   - `Type`
