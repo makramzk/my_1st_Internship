@@ -40,17 +40,27 @@ We identified two key datasets from the Berlin city government's official portal
 ### 1.2 Modelling & Planning
 
 ### 🟢 Public Parks (Grünanlagen)
-- **Key Parameters Selected**
 
-- **Key Parameters Selected:**
+- **Key Parameters Selected**
   - `Name`
   - `Type`
-  - `Address`
-  - `District`
+  - `Neigborhood`
+  - `Geometry` (Polygon or Point Coordinates)
+  - `Area in m²`
+  - `Planning Area`
+  - `Dedicated`
+
+### 🟢 Public Parks (Grünanlagen)
+
+- **Key Parameters Selected:**
+  - `Playground Name`
+  - `Type of Playground`
+  - `Neigborhood`
+  - `Locality`
+  - `Area (total and net in m² )`
+  - `Constrution Year`
   - `Coordinates` (latitude, longitude)
-  - `Area/Size`
-  - `Facilities` (for playgrounds)
-  - `Opening hours` (if available)
+  
 
 - **Schema Integration Plan:**
 
